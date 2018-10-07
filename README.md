@@ -1,2 +1,8 @@
 # waffle-hw1-group4
-(null)
+group website(htmls) including an index.html
+
+# specs for self-introduction
+(unknown)
+
+# specs for index.html
+(unknown)
