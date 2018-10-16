@@ -1,0 +1,63 @@
+body{
+    background-color:gray;
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    align-content:space-between;
+    justify-content:center;
+}
+#profile-picture{
+    align-items: flex-start;
+    width:386;
+    height:514;}
+#contents1{
+        font-weight: bolder;
+    }
+#contents2{
+        font-weight: bolder;
+    }
+#contents3{
+        font-weight: bolder;
+    }
+#age{
+    display: flex;
+    flex-direction: column;
+    }
+    #major{
+        display:flex;
+        flex-direction:column;
+    }
+    #favorite{
+        display: flex;
+        flex-direction: column;
+    }
+
+#personal-info{
+    background-color:white;
+    display:flex;
+    flex-direction:row;
+    width:800;
+    justify-content:space-between;
+    align-content:space-around;
+}
+#main-wrapper{
+    display:flex;
+    width:800;
+    height:514;
+    background-color:white;
+    justify-content:center;
+    align-items:center;
+    flex-direction:column;
+}
+#name{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 411;
+    height: 200;
+}
+
+#personal-info{
+    justify-content:space-around;
+}
